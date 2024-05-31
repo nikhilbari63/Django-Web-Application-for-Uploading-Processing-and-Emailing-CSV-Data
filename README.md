@@ -41,4 +41,6 @@ Further Improvements:
 Conclusion: The Django-based web page provides a simple and efficient way for users to 
 upload Excel/CSV files and generate summary reports. By leveraging Django's built-in 
 features and libraries like pandas, the application ensures robustness and scalability for 
-handling large datasets. ![result page](https://github.com/nikhilbari63/Django-Web-Application-for-Uploading-Processing-and-Emailing-CSV-Data/assets/160225662/80d6c829-713c-42b4-8036-0ec0f5708fe1)
+handling large datasets. ![upload page](https://github.com/nikhilbari63/Django-Web-Application-for-Uploading-Processing-and-Emailing-CSV-Data/assets/160225662/4e8f4782-1aa6-4c80-b073-cb395af20e3c)
+![result page](https://github.com/nikhilbari63/Django-Web-Application-for-Uploading-Processing-and-Emailing-CSV-Data/assets/160225662/4adf93ba-e6a8-4d13-8b71-5658257b9b6c)
+
